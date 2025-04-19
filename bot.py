@@ -1,8 +1,8 @@
 import telebot
 from telebot import types
 
-BOT_TOKEN = 'ВАШ_ТОКЕН_БОТА'
-WEBAPP_URL = 'https://ВАШ_ДОМЕН/webapp/index.html'  # Замените на ваш URL
+BOT_TOKEN = '7546666892:AAFdCCYAexVEdOLaRA2i4WlSEOTp5ugQ8BI'
+WEBAPP_URL = 'https://mikeymouse0.github.io/MikeyMouse0-/'  # Замените на ваш URL
 
 bot = telebot.TeleBot(BOT_TOKEN)
 
